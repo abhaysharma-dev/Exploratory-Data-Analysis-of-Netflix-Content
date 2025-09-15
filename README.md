@@ -27,12 +27,12 @@ Here are the key visualizations generated from the analysis:
 
 **2. Top 10 Content Producing Countries**
 *A horizontal bar chart displaying the countries that have produced the most content for Netflix.*
-![Top 10 Countries](./images/Top_10_countries.png)
+![Top 10 Countries](./Top_10_countries.png)
 
 **3. Content Added Over the Years**
 *A line chart illustrating the trend of content being added to the platform over time.*
-![Content Added Over Years](./images/Year_vs_movies_release.png)
+![Content Added Over Years](./Year_vs_movies_release.png)
 
 **4. Distribution of Content Ratings**
 *A pie chart showing the proportion of different content ratings.*
-![Content Ratings](./images/Ratings.png)
+![Content Ratings](./Ratings.png)
